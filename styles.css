@@ -1,9 +1,0 @@
-:root{
-    --cor-de-fundo:var: #ebecee;
-}
-body{
-    background-color: gold var(--cor-de-fundo);
-}
-h1 {
-    background-color: rgb(219, 17, 44);
-}
